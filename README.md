@@ -1,9 +1,9 @@
 # Code Refactor Starter Code
 
-Description
+## Description
 UCLA Week 1 project is a code refactor for the Horiseon website homepage. The purposes of refactoring is to make the previous code more organuzed, understandable and accessible.
 
-Refracted code includes
+###Refracted code includes
 
 A descriptive title was added
 Id tag was added to the SEO section
