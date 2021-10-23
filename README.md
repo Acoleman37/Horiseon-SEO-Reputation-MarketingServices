@@ -20,3 +20,8 @@ Refracted code includes
 Live URL Link
 
 [Horiseon](https://acoleman37.github.io/refreshed-horiseon-code/)
+
+---
+
+<img width="1680" alt="Screen Shot 2021-10-22 at 10 46 34 PM" src="https://user-images.githubusercontent.com/91629574/138544239-e8ae887b-fabe-4b7f-a02b-60e218cca0a5.png">
+
