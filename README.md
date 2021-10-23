@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Code Refactor Project
 
 ## Description
 UCLA Coding Bootcamp Week 1 project is to refact code for the Horiseon website homepage. The purposes of refactoring is to make the previous code more organized, understandable and accessible.
